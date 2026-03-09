@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <main style={{ fontFamily: 'Arial, sans-serif', padding: 24 }}>
-      <h1>Rikkei Fullstack Sample</h1>
+      <h1>Dung page </h1>
       <p>Frontend is running.</p>
     </main>
   );
